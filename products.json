@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name":"Double beef burger",
+        "price": "$200",
+        "image": "images/burger.png"
+    },
+     {
+        "id": 2,
+        "name":"Double beef burger",
+        "price": "$200",
+        "image": "images/burger.png"
+    },
+     {
+        "id": 3,
+        "name":"Double beef burger",
+        "price": "$200",
+        "image": "images/burger.png"
+    },
+     {
+        "id": 4,
+        "name":"Double beef burger",
+        "price": "$200",
+        "image": "images/burger.png"
+    },
+     {
+        "id": 5,
+        "name":"Double beef burger",
+        "price": "$200",
+        "image": "images/burger.png"
+    },
+     {
+        "id": 6,
+        "name":"Double beef burger",
+        "price": "$200",
+        "image": "images/burger.png"
+    },
+     {
+        "id": 7,
+        "name":"Double beef burger",
+        "price": "$200",
+        "image": "images/burger.png"
+    },
+     {
+        "id": 8,
+        "name":"Double beef burger",
+        "price": "$200",
+        "image": "images/chicken-roll.png"
+    },
+    {
+    "id": 9,
+    "name": "Double Beef Burger",
+    "price": 200,
+    "image": "images/sandwich.png"
+  },
+  {
+    "id": 10,
+    "name": "Cheese Pizza",
+    "price": 350,
+    "image": "images/pizza.png"
+  },
+  {
+    "id": 11,
+    "name": "French Fries",
+    "price": 120,
+    "image": "images/fries.png"
+  },
+  {
+    "id": 12,
+    "name": "Cold Coffee",
+    "price": 150,
+    "image": "images/fried-chicken.png"
+  }
+]
